@@ -1,0 +1,2 @@
+Iteration #7: Club Recommendations
+Create a function recommendClubs that takes a student ID and returns an array of club names the student might be interested in, based on clubs that their coursemates are in.
